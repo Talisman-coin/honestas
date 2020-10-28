@@ -1,4 +1,4 @@
-Talisman Core staging tree 0.12
+Talisman Core staging tree 0.0.1
 ===============================
 
 `master:` [![Build Status](https://travis-ci.org/talisman-coin/talisman.svg?branch=master)](https://travis-ci.org/talisman-coin/talisman) `v0.0.1:` [![Build Status](https://travis-ci.org/talisman-coin/talisman.svg?branch=v0.0.1)](https://travis-ci.org/talisman-coin/talisman/branches) `v0.0.1:` [![Build Status](https://travis-ci.org/talisman-coin/talisman.svg?branch=v0.0.1)](https://travis-ci.org/talisman-coin/talisman/branches)
