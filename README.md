@@ -1,13 +1,13 @@
 Talisman Core staging tree 0.12
 ===============================
 
-`master:` [![Build Status](https://travis-ci.org/talisman-coin/talisman.svg?branch=master)](https://travis-ci.org/talisman-coin/talisman) `v0.12.0.x:` [![Build Status](https://travis-ci.org/talisman-coin/talisman.svg?branch=v0.12.0.x)](https://travis-ci.org/talisman-coin/talisman/branches) `v0.12.1.x:` [![Build Status](https://travis-ci.org/talisman-coin/talisman.svg?branch=v0.12.1.x)](https://travis-ci.org/talisman-coin/talisman/branches)
+`master:` [![Build Status](https://travis-ci.org/talisman-coin/talisman.svg?branch=master)](https://travis-ci.org/talisman-coin/talisman) `v0.0.1:` [![Build Status](https://travis-ci.org/talisman-coin/talisman.svg?branch=v0.0.1)](https://travis-ci.org/talisman-coin/talisman/branches) `v0.0.1:` [![Build Status](https://travis-ci.org/talisman-coin/talisman.svg?branch=v0.0.1)](https://travis-ci.org/talisman-coin/talisman/branches)
 
 https://www.talisman.org
 
-Copyright (c) 2009-2015 Bitcoin Core Developers
+Copyright (c) 2009-2020 Bitcoin Core Developers
 
-Copyright (c) 2014-2015 Talisman Core Developers
+Copyright (c) 2014-2020 Talisman Core Developers
 
 
 What is Talisman?
