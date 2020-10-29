@@ -1,0 +1,27 @@
+# /etc/conf.d/talismand: config file for /etc/init.d/talismand
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/talisman/talisman.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/talismand"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/talismand.pid"
+
+# Where to write talismand data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/talismand"
+
+# User and group to own talismand process
+#BITCOIND_USER="talisman"
+#BITCOIND_GROUP="talisman"
+
+# Path to talismand executable
+#BITCOIND_BIN="/usr/bin/talismand"
+
+# Nice value to run talismand under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS="-disablewallet"
+

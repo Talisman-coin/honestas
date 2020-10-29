@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/talisman_bg.qm</file>
+        <file alias="de">locale/talisman_de.qm</file>
+        <file alias="en">locale/talisman_en.qm</file>
+        <file alias="es">locale/talisman_es.qm</file>
+        <file alias="fi">locale/talisman_fi.qm</file>
+        <file alias="fr">locale/talisman_fr.qm</file>
+        <file alias="it">locale/talisman_it.qm</file>
+        <file alias="ja">locale/talisman_ja.qm</file>
+        <file alias="pl">locale/talisman_pl.qm</file>
+        <file alias="pt">locale/talisman_pt.qm</file>
+        <file alias="ru">locale/talisman_ru.qm</file>
+        <file alias="sk">locale/talisman_sk.qm</file>
+        <file alias="sv">locale/talisman_sv.qm</file>
+        <file alias="vi">locale/talisman_vi.qm</file>
+        <file alias="zh_CN">locale/talisman_zh_CN.qm</file>
+        <file alias="zh_TW">locale/talisman_zh_TW.qm</file>
+    </qresource>
+</RCC>

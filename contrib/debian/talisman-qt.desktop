@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Talisman
+Comment=Talisman P2P Cryptocurrency
+Comment[fr]=Talisman, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Talisman, eşten eşe kriptografik sanal para birimi
+Exec=talisman-qt %u
+Terminal=false
+Type=Application
+Icon=talisman128
+MimeType=x-scheme-handler/talisman;
+Categories=Office;Finance;

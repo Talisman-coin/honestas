@@ -1,0 +1,6 @@
+usr/local/bin/talisman-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin16.xpm usr/share/pixmaps
+share/pixmaps/bitcoin128.png usr/share/pixmaps
+debian/talisman-qt.desktop usr/share/applications
+debian/talisman-qt.protocol usr/share/kde4/services/

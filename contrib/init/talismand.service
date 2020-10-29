@@ -1,0 +1,22 @@
+[Unit]
+Description=Talisman's distributed currency daemon
+After=network.target
+
+[Service]
+User=talisman
+Group=talisman
+
+Type=forking
+PIDFile=/var/lib/talismand/talismand.pid
+ExecStart=/usr/bin/talismand -daemon -pid=/var/lib/talismand/talismand.pid \
+-conf=/etc/talisman/talisman.conf -datadir=/var/lib/talismand -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
